@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/sakura/threadpool/c_threadpool/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-7   -g   -o CMakeFiles/threadpool.dir/main.c.o   -c /home/sakura/threadpool/c_threadpool/main.c",
+  "file": "/home/sakura/threadpool/c_threadpool/main.c"
+},
+
+{
+  "directory": "/home/sakura/threadpool/c_threadpool/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-7   -g   -o CMakeFiles/threadpool.dir/threadpool.c.o   -c /home/sakura/threadpool/c_threadpool/threadpool.c",
+  "file": "/home/sakura/threadpool/c_threadpool/threadpool.c"
+}
+]

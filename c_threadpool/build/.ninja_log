@@ -1,0 +1,4 @@
+# ninja log v5
+0	60	1623073048230000000	CMakeFiles/threadpool.dir/main.c.o	3b542fea62c9cf78
+0	83	1623073048250000000	CMakeFiles/threadpool.dir/threadpool.c.o	e07e3b2fef927004
+83	349	1623073048520000000	threadpool	a4996973426ebe57

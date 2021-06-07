@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/sakura/threadpool/cpp_threadpool/build",
+  "command": "/bin/c++    -g   -o CMakeFiles/threadpool_cpp.dir/main.cpp.o -c /home/sakura/threadpool/cpp_threadpool/main.cpp",
+  "file": "/home/sakura/threadpool/cpp_threadpool/main.cpp"
+},
+
+{
+  "directory": "/home/sakura/threadpool/cpp_threadpool/build",
+  "command": "/bin/c++    -g   -o CMakeFiles/threadpool_cpp.dir/threadpool.cpp.o -c /home/sakura/threadpool/cpp_threadpool/threadpool.cpp",
+  "file": "/home/sakura/threadpool/cpp_threadpool/threadpool.cpp"
+}
+]
